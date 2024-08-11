@@ -31,6 +31,5 @@ An easy solution to host laravel on AWS.
 - sftp -i /path/to/your-key-pair.pem ec2-user@your-ec2-public-dns
 - put /path/to/local/file.txt
 
-*
 
 
