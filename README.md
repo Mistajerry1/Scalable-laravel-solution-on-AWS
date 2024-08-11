@@ -27,7 +27,7 @@ An easy solution to host laravel on AWS.
  php -r "unlink('composer-setup.php');"
 
 * deploy your application
-# i had issues with ssh so i used sftp 
+# I had issues with ssh so i used sftp 
 - sftp -i /path/to/your-key-pair.pem ec2-user@your-ec2-public-dns
 - put /path/to/local/file.txt
 
